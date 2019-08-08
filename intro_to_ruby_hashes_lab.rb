@@ -7,7 +7,7 @@ end
 new_hash
 
 def actor
-  hash = [name: "Dwayne The Rock Johnson"]
+  hash = {name: "Dwayne The Rock Johnson"}
 
 end
 
